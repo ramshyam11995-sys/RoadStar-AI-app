@@ -1,0 +1,6 @@
+{
+  "name": "RoadStar AI",
+  "description": "AI-powered trucking operations platform connecting fleet managers, dispatchers, drivers, and freight.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
